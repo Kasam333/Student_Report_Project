@@ -1,4 +1,5 @@
-Student Report Project
+Student Report Project :-
+
 Overview
 The Student Report Project is a web-based application developed using Django. This project provides an easy-to-use interface for managing student information, searching student records, and displaying detailed reports. It includes advanced features like pagination, search functionality, and dynamic navigation.
 
